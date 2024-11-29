@@ -37,11 +37,11 @@
     },
     "libpg64NativeArm_v8a.so": {
         "version": "1.0.0",
-        "url": "https://github.com/rayansyed77/paid-/releases/download/vip/liblibpg64-lib"
+        "url": "https://github.com/rayansyed77/paid-/releases/download/vip/libpg64NativeArm_v8a"
     },
    "libpg64NativeArm_v7a.so": {
         "version": "1.0.0",
-        "url": "https://github.com/rayansyed77/paid-/releases/download/vip/liblibpg64-lib"
+        "url": "https://github.com/rayansyed77/paid-/releases/download/vip/libpg64NativeArm_v8a"
     }
     
     
